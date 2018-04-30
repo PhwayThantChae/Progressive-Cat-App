@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/PWCat/index.html",
+  "index": "/Progressive-Cat-App/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/PWCat/favicon.ico",
-        "/PWCat/index.html",
-        "/PWCat/inline.c2916db6336d680a4d60.bundle.js",
-        "/PWCat/main.a9b6b1201fbb22a379f2.bundle.js",
-        "/PWCat/polyfills.46af3f84a403e219371b.bundle.js",
-        "/PWCat/styles.6ad9a73f8aa026312392.bundle.css"
+        "/Progressive-Cat-App/favicon.ico",
+        "/Progressive-Cat-App/index.html",
+        "/Progressive-Cat-App/inline.c2916db6336d680a4d60.bundle.js",
+        "/Progressive-Cat-App/main.a9b6b1201fbb22a379f2.bundle.js",
+        "/Progressive-Cat-App/polyfills.46af3f84a403e219371b.bundle.js",
+        "/Progressive-Cat-App/styles.6ad9a73f8aa026312392.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PWCat/inline.c2916db6336d680a4d60.bundle.js": "9bb42942be9408f1356e04195200f0f6c9105ccf",
-    "/PWCat/main.a9b6b1201fbb22a379f2.bundle.js": "ee8ff9855067b0115b274285ca3e9a3d3fa6e815",
-    "/PWCat/polyfills.46af3f84a403e219371b.bundle.js": "2433a5447fd85f5a3e010ff9c5fd06cfb2c8ddcd",
-    "/PWCat/styles.6ad9a73f8aa026312392.bundle.css": "e34860b4702207309302fc6fd3a3cefd640510e1",
-    "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat/index.html": "d406168dcc413df1e8d0af709b9b8cd08e8885a9"
+    "/Progressive-Cat-App/inline.c2916db6336d680a4d60.bundle.js": "9bb42942be9408f1356e04195200f0f6c9105ccf",
+    "/Progressive-Cat-App/main.a9b6b1201fbb22a379f2.bundle.js": "ee8ff9855067b0115b274285ca3e9a3d3fa6e815",
+    "/Progressive-Cat-App/polyfills.46af3f84a403e219371b.bundle.js": "2433a5447fd85f5a3e010ff9c5fd06cfb2c8ddcd",
+    "/Progressive-Cat-App/styles.6ad9a73f8aa026312392.bundle.css": "e34860b4702207309302fc6fd3a3cefd640510e1",
+    "/Progressive-Cat-App/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/Progressive-Cat-App/index.html": "8893d245497921040c1632556e598f1136ee6e36"
   }
 }
