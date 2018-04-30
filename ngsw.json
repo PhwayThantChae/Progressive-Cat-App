@@ -9,8 +9,8 @@
       "urls": [
         "/Progressive-Cat-App/favicon.ico",
         "/Progressive-Cat-App/index.html",
-        "/Progressive-Cat-App/inline.c2916db6336d680a4d60.bundle.js",
-        "/Progressive-Cat-App/main.a9b6b1201fbb22a379f2.bundle.js",
+        "/Progressive-Cat-App/inline.81683ae33313a491550e.bundle.js",
+        "/Progressive-Cat-App/main.672261154948082b6290.bundle.js",
         "/Progressive-Cat-App/polyfills.46af3f84a403e219371b.bundle.js",
         "/Progressive-Cat-App/styles.eead7d3de6481caaaea1.bundle.css"
       ],
@@ -21,16 +21,18 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/Progressive-Cat-App/inline.c2916db6336d680a4d60.bundle.js": "9bb42942be9408f1356e04195200f0f6c9105ccf",
-    "/Progressive-Cat-App/main.a9b6b1201fbb22a379f2.bundle.js": "ee8ff9855067b0115b274285ca3e9a3d3fa6e815",
+    "/Progressive-Cat-App/inline.81683ae33313a491550e.bundle.js": "28faeeae181dd2eed5af30a50fa70d42bcb0dc6f",
+    "/Progressive-Cat-App/main.672261154948082b6290.bundle.js": "dcb7acf4ff05d86ae7c6660ee6e1dd717787aab7",
     "/Progressive-Cat-App/polyfills.46af3f84a403e219371b.bundle.js": "2433a5447fd85f5a3e010ff9c5fd06cfb2c8ddcd",
     "/Progressive-Cat-App/styles.eead7d3de6481caaaea1.bundle.css": "5ebda979f68290cbbecfd79ec0685b140281e65c",
     "/Progressive-Cat-App/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/Progressive-Cat-App/index.html": "95e704dbb717962c3804947ff1d2d094aad9092a"
+    "/Progressive-Cat-App/index.html": "2408706d20a5a1d642e63d5f5fb9a2f1b42adef7"
   }
 }
